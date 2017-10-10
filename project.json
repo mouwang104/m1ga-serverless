@@ -4,5 +4,5 @@
   "memory": 128,
   "timeout": 5,
   "role": "arn:aws:iam::419138931779:role/m1ga-serverless_lambda_function",
-  "environment": {},
+  "environment": {}
 }
