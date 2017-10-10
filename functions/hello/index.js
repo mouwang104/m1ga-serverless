@@ -1,10 +1,12 @@
-//var request = require('request');
+var request = require('request');
 
 //console.log('starting function')
 exports.handle = function(event, context, callback) {
 
   // var input     = event;
   // var returnMsg = '';
+
+
 
   //var bodyData = JSON.parse(event.body);
   //var bodyData = '1234';
